@@ -32,7 +32,7 @@ Machine Learning (Linear Regression, SVR, Decision Tree Regressor, Random Forest
 
 # Conclusion:
 
-# The best model is SVR Poly.
-# Retail prices are much higher than wholesale prices.
-# Predictions considering Linear Regression and SVR Poly are similar.
-# Clothing is the category that sells the most and Indoor sport is what sells the least.
+### The best model is SVR Poly.
+### Retail prices are much higher than wholesale prices.
+### Predictions considering Linear Regression and SVR Poly are similar.
+### Clothing is the category that sells the most and Indoor sport is what sells the least.
